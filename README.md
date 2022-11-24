@@ -1,2 +1,3 @@
 # num-console-app
-C++ console app, coded for my numerical mathematics lecture
+
+C++ Windows console app, coded for my numerical mathematics lecture (2013)
